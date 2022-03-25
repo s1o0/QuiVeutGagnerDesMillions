@@ -1,0 +1,5 @@
+Combien de branches possède un hand spinner classique ?;2;3;4;5;3
+Combien faut-il de joueurs au handball ?;12;14;16;18;14
+Lequel de ces chanteurs n'a pas fait partie du groupe anglo-irlandais One Direction?;Liam Payne;Harry Styles;Nathan Sykes;Zyan Malilk;Nathan Sykes
+Dans quelle discipline artistique le mot "robayat" est-il utilisé fréquemment?;La sculpture;La musique classique;La poésie;Le ballet;La poésie
+Où la Coupe du monde de football de 2022 est-elle censée se dérouler?;Aux Etats-Unis;Au Qatar;Au Danemark;A Paris;Au Qatar
