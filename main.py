@@ -3,6 +3,7 @@ from contextvars import Context
 from discord.ext import commands
 import asyncio
 from dotenv import load_dotenv
+from Game import getQuestion
 
 
 load_dotenv(dotenv_path="config")
@@ -33,6 +34,11 @@ async def on_message(message):
 async def square(ctx, arg): 
     print(arg)
     await ctx.send(int(arg) ** 2) 
+
+@bot.command()
+async def test(ctx):
+    q0,q1,q2,q3,q4=getQuestion(1)
+    await ctx.send(q0)
 
 @bot.command()
 async def launch(ctx):
