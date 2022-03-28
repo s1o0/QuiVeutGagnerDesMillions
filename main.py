@@ -43,21 +43,31 @@ async def test(ctx):
 @bot.command()
 async def launch(ctx):
 
-    await ctx.send("TEST 123")
-    check = lambda m: m.author == ctx.author and m.channel == ctx.channel
+    await ctx.send("**Lancement du jeu...**")
+    i =1
+    while(i != 16):
+        q0,q1,q2,q3,q4,verif=getQuestion(i)
+        await ctx.send(q0)
+        await ctx.send(q1)
+        await ctx.send(q2)
+        await ctx.send(q3)
+        await ctx.send(q4)
 
-    try:
-        confirm = await bot.wait_for("message", check=check, timeout=10)
-    except asyncio.TimeoutError:
-        print("ERROR 404")
-        return
+        check = lambda m: m.author == ctx.author and m.channel == ctx.channel
+        try:
+            confirm = await bot.wait_for("message", check=check, timeout=20)
+        except asyncio.TimeoutError:
+            print("ERROR 404")
+            return
 
-    if confirm.content == "yes":
-        await ctx.send("OUIIIIIII")
-        return
-
-    print("ERROR 404")
-
+        if confirm.content == str(verif):
+            await ctx.send("Bonne reponse !")
+            i+=1
+        else:
+            await ctx.send(f'Mauvaise réponse ! Vous avez atteint le palier numéro {i}')
+            await ctx.send("|| spoiler N'hésite pas à mettre une étoile au projet : https://github.com/s1o0/QuiVeutGagnerDesMillions ||")
+            break
+            
 
 @bot.command()
 async def infos(ctx):   

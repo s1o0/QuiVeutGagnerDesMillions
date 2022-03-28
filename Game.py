@@ -22,13 +22,6 @@ def getQuestion(num:int):
 
 
 
-q0,q1,q2,q3,q4,verif = getQuestion(1)
-print(q0)
-print(q1)
-print(q2)
-print(q3)
-print(q4)
-print(verif)
 
 
 
