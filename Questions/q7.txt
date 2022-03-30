@@ -1,8 +1,8 @@
-Qui sont considérés comme les inventeurs du cinéma ?;Les soeurs Macarons;Les frères Lumière;Les soeurs Ciotat;Les frères Spielberg;Les frères Lumière
-De quel pays vient la K-pop ?;La Chine;Le Japon;La Corée du Sud;La Russie;La Corée du Sud
-Quel instrument ne fait pas partie d'une fanfare ?;La trompette;Le tambour;Le trombone;Le violon;Le violon
-Dans le livre de George Orwell, "La ferme des animaux", quel genre de créature est Napoléon?;Un cheval;Une vache;Un cochon;Un mouton;Un cochon
-Dans un poème célèbre, qui est le mari de Minnehaha?;Beowulf;Lancelot;Robin des Bois;Hiawatha;Hiawatha
-Dans quel pays Isabel Peron est-elle devenue présidente, suite au décès de son mari en 1974?;Haïti;Le Pérou;L'argentine;Cuba;L'argentine
-Si j'assiste ou suis victime d'un accident de la route, quel numéro dois-je appeler ?;15;17;22;18;18
-Comment appelle-t-on des groupes de mots se rapportant à la même idée?;Des champs latéraux;Des champs tactiques;Des champs lexicaux;Des groupes de dicos;Des champs lexicaux
+Qui sont considérés comme les inventeurs du cinéma ?;Les soeurs Macarons;Les frères Lumière;Les soeurs Ciotat;Les frères Spielberg;2
+De quel pays vient la K-pop ?;La Chine;Le Japon;La Corée du Sud;La Russie;3
+Quel instrument ne fait pas partie d'une fanfare ?;La trompette;Le tambour;Le trombone;Le violon;4
+Dans le livre de George Orwell, "La ferme des animaux", quel genre de créature est Napoléon?;Un cheval;Une vache;Un cochon;Un mouton;4
+Dans un poème célèbre, qui est le mari de Minnehaha?;Beowulf;Lancelot;Robin des Bois;Hiawatha;4
+Dans quel pays Isabel Peron est-elle devenue présidente, suite au décès de son mari en 1974?;Haïti;Le Pérou;L'argentine;Cuba;3
+Si j'assiste ou suis victime d'un accident de la route, quel numéro dois-je appeler ?;15;17;22;18;4
+Comment appelle-t-on des groupes de mots se rapportant à la même idée?;Des champs latéraux;Des champs tactiques;Des champs lexicaux;Des groupes de dicos;3

@@ -1,12 +1,12 @@
-Qui joue le Dr.Robotnik dans le films Sonic sorti en 2020 ?;James Marsden;Ben Schwartz;Jim Carrey;Dany Boon;JimCarrey
-Quelle est la capitale de la Russie?;Kazan;Moscou;Vladivostok;Saint-Pétersbourg;Moscou
-Quel animal est l'emblème de Fortnite?;Un cheval;Un panda;Un lama;Un chameau;Un lama
-Qui peut réaliser un "jeté" ?;Le danseur de ballet;Le chef cuisinier;Le pilote;Le chirurgien;Le danseur de ballet
-Quelle protéine est principalement responsable de la montée des blanc d'oeuf en neige ?;L'ovalbumine;La caséine;La carnitine;La spiruline;L'ovalbumine
-Quel est le prénom du leader communiste qui a pris le pouvoir à Cuba en 1959 ?;Rafael;Manuel;Fidel;Miguel;Fidel
-A partir de quel ingrédient la pâte à tartiner australienne Vegemite est-elle préparée?;De légumes fermntés;De noix de macadamia;De viande séchée;D'extrait de levure;D'extrait de levure
-Qui est le dessinateur et "papa" emblématique des "Petits Hommes"?;Philippe Tome;Raoul Cauvin;Pierre Seron;Jean-Claude Fournier;Pierre Seron
-De quel pays Benazir Bhutto a-t-elle été deux fois Première ministre?;Le Venezuela;Le Sri Lanka;Le Pakistan;La Jamaïque;Le Pakistan
-Quel est le nom de la chanson du film "A star is Born" interprétée par Lady Gaga ?;Shallow;Challow;A Star is Born;Chamallow;Shallow
-Dans lequel de ces clubs Zlatan Ibrahimovic n'a-t-il jamais joué?;Ajax Amsterdam;Inter Milan;Juventus FC;Olympique de Marseille;Olympique de Marseille
-Quel type d'animal est le furet?;Herbivore;Carnivore;Omnivore;Il ne se nourrit pas;Carnivore
+Qui joue le Dr.Robotnik dans le films Sonic sorti en 2020 ?;James Marsden;Ben Schwartz;Jim Carrey;Dany Boon;3
+Quelle est la capitale de la Russie?;Kazan;Moscou;Vladivostok;Saint-Pétersbourg;2
+Quel animal est l'emblème de Fortnite?;Un cheval;Un panda;Un lama;Un chameau;3
+Qui peut réaliser un "jeté" ?;Le danseur de ballet;Le chef cuisinier;Le pilote;Le chirurgien;1
+Quelle protéine est principalement responsable de la montée des blanc d'oeuf en neige ?;L'ovalbumine;La caséine;La carnitine;La spiruline;1
+Quel est le prénom du leader communiste qui a pris le pouvoir à Cuba en 1959 ?;Rafael;Manuel;Fidel;Miguel;3
+A partir de quel ingrédient la pâte à tartiner australienne Vegemite est-elle préparée?;De légumes fermntés;De noix de macadamia;De viande séchée;D'extrait de levure;4
+Qui est le dessinateur et "papa" emblématique des "Petits Hommes"?;Philippe Tome;Raoul Cauvin;Pierre Seron;Jean-Claude Fournier;3
+De quel pays Benazir Bhutto a-t-elle été deux fois Première ministre?;Le Venezuela;Le Sri Lanka;Le Pakistan;La Jamaïque;3
+Quel est le nom de la chanson du film "A star is Born" interprétée par Lady Gaga ?;Shallow;Challow;A Star is Born;Chamallow;1
+Dans lequel de ces clubs Zlatan Ibrahimovic n'a-t-il jamais joué?;Ajax Amsterdam;Inter Milan;Juventus FC;Olympique de Marseille;4
+Quel type d'animal est le furet?;Herbivore;Carnivore;Omnivore;Il ne se nourrit pas;2

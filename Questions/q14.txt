@@ -1,1 +1,1 @@
-Jusqu'à combien d'heures peut dormir un furet en une seule journée?;8 heures;4 heures;12 heures;18 heures;18 heures
+Jusqu'à combien d'heures peut dormir un furet en une seule journée?;8 heures;4 heures;12 heures;18 heures;4

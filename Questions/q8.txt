@@ -1,7 +1,7 @@
-Comment se nomme le cercle noir au centre de l'oeil?;L'iris;La pupille;La cornée;Le nerf optique;La pupille
-Au néolithique, quelle était la monnaie d'échange ?;Les pièces d'or;La viande;Les coquillages;Le troc;Le troc
-Comment se nomme le royaume dans la série des "Descendants" de Disney?;Fantasyland;Les Etats-Unis d'Auradon;Les Etats de Fairyland;Disneyland;Les Etats-Unis d'Auradon
-Quelle somme reçoit le lauréat du Goncourt le jour de l'attribution de son prix?;10€;100€;1000€;10000€;10€ 
-Sous quelle forme est présentée la roulade Sévigné de Vitré en Bretagne ?;Une rosace;Une pyramide;Un cube;Un triangle;Une rosace
-Quel est le plus vaste océan du monde?;L'Atlantique;L'Arctique;L'océan indien;Le Pacifique;Le Pacifique
-Comment Kirby absorbe-t-il les pouvoirs des ennemis qu'il rencontre?;En les avalant;En les frappant;En les poussant;En les transformant;En les avalant
+Comment se nomme le cercle noir au centre de l'oeil?;L'iris;La pupille;La cornée;Le nerf optique;2
+Au néolithique, quelle était la monnaie d'échange ?;Les pièces d'or;La viande;Les coquillages;Le troc;4
+Comment se nomme le royaume dans la série des "Descendants" de Disney?;Fantasyland;Les Etats-Unis d'Auradon;Les Etats de Fairyland;Disneyland;2
+Quelle somme reçoit le lauréat du Goncourt le jour de l'attribution de son prix?;10€;100€;1000€;10000€;1
+Sous quelle forme est présentée la roulade Sévigné de Vitré en Bretagne ?;Une rosace;Une pyramide;Un cube;Un triangle;1
+Quel est le plus vaste océan du monde?;L'Atlantique;L'Arctique;L'océan indien;Le Pacifique;4
+Comment Kirby absorbe-t-il les pouvoirs des ennemis qu'il rencontre?;En les avalant;En les frappant;En les poussant;En les transformant;1
