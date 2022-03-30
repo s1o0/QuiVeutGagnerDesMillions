@@ -1,14 +1,14 @@
-Dans quel pays est enserré Monaco?;France;Espagne;Italie;Allemagne;France
-Combien de temps la guerre de Cent Ans a-t-elle réellement duré ?;500ans;50ans;116ans;2h;116ans
-Dans le monde des jeux vidéos, qui est l'allié et ami de Ratchet?;Jak;Daxter;Clank;Superman;Clank
-Quelle était la profession de Rembrandt, figure célèbre du XVIIe siècle?;Peintre;Décorateur;Plombier;Laveur de vitres;Peintre
-Dans quelle partie du corps se trouve l'iris ?;Le pied;Le coeur;L'oeil;Le foie;L'oeil
-Dans quel pays l'oeuf de cent ans est-il une spécialité culinaire?;La Chine;Le Japon;La Corée du Sud;La Russie;La Chine
-Dans le corps humain, où se trouve le cortex cérébral?;Le foie;Le genou;Le coeur;Le cerveau;Le cerveau
-Sur le drapeau de l'URSS on pouvait voir une faucille et ...;Une pince-monseigneur;Un marteau;Une clé à pipe;Une tronçonneuse;Un marteau
-Pourquoi le héros de la bande dessinée "XIII" est-il amnésique ?;Il est tombé sur un rocher;Il a été blessé par balle;Il a été enlevé par des aliens;Il a juste une très mauvaise mémoire;Il a été blessé par balle
-Lequel de ces coquillages comestibles n'est pas un coquillage bivalve ?;L'huite;La moule;Le bulot;La palourde;Le bulot
-Lequel de ces noms n'est pas celui d'un dinosaure?;Le tricératops;Le vélociraptor;Le brachiosaure;Le transistor;Le transistor
-Quand une photo de star est truquée, on dit qu'elle est...;Retouchée;Retapée;Recadrée;Détourée;Retouchée
-Qui est le héros du film "Spider-Man : New Generation"?;Miles Morales;Bruce Wayne;Cool Tag;Buzz L'eclair;Miles Morales
-Halloween tombe toujours...;Le 25 décembre;Le 1er janvier;Le 31 février;Le 31 octobre;Le 31 octobre
+Dans quel pays est enserré Monaco?;France;Espagne;Italie;Allemagne;1
+Combien de temps la guerre de Cent Ans a-t-elle réellement duré ?;500ans;50ans;116ans;2h;3
+Dans le monde des jeux vidéos, qui est l'allié et ami de Ratchet?;Jak;Daxter;Clank;Superman;3
+Quelle était la profession de Rembrandt, figure célèbre du XVIIe siècle?;Peintre;Décorateur;Plombier;Laveur de vitres;1
+Dans quelle partie du corps se trouve l'iris ?;Le pied;Le coeur;L'oeil;Le foie;3
+Dans quel pays l'oeuf de cent ans est-il une spécialité culinaire?;La Chine;Le Japon;La Corée du Sud;La Russie;1
+Dans le corps humain, où se trouve le cortex cérébral?;Le foie;Le genou;Le coeur;Le cerveau;4
+Sur le drapeau de l'URSS on pouvait voir une faucille et ...;Une pince-monseigneur;Un marteau;Une clé à pipe;Une tronçonneuse;2
+Pourquoi le héros de la bande dessinée "XIII" est-il amnésique ?;Il est tombé sur un rocher;Il a été blessé par balle;Il a été enlevé par des aliens;Il a juste une très mauvaise mémoire;2
+Lequel de ces coquillages comestibles n'est pas un coquillage bivalve ?;L'huite;La moule;Le bulot;La palourde;3
+Lequel de ces noms n'est pas celui d'un dinosaure?;Le tricératops;Le vélociraptor;Le brachiosaure;Le transistor;4
+Quand une photo de star est truquée, on dit qu'elle est...;Retouchée;Retapée;Recadrée;Détourée;1
+Qui est le héros du film "Spider-Man : New Generation"?;Miles Morales;Bruce Wayne;Cool Tag;Buzz L'eclair;1
+Halloween tombe toujours...;Le 25 décembre;Le 1er janvier;Le 31 février;Le 31 octobre;4
